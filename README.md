@@ -6,7 +6,7 @@ This project analyzes the Canada’s disaster database that store information on
 The analysis is divided into **different stages**, starting with the _Business understanding, Data Understanding, Data Preparation through ETL, SQL SSMS, SSIS, PowerBI Modelling, and MS Excel functions application.
 
 ## Business Understanding
-The Canadian Disaster Database (CDD) contains information on over one thousand natural and human-made disaster events that have occurred in Canada and abroad since 1900 and that have affected Canadians directly. The data in the CDD can be used across a breadth of fields and industries to support research and inform decision-making.
+The Canadian Disaster Database (CDD) contains information on over one thousand natural and human-made disaster events that have occurred in Canada and abroad since 1900 and that have affected Canadians directly. The data in the CDD can be used across a breadth of fields and industries to support research, develop polices, assess damage, mange risk, inform decision-making, and provide emergency response planning and preparation.
  
 ## Data Understanding
 One of the critical stages of any Data analysis project is understanding the available data, and the relationships that exists between the various business concepts. The publicly accessible database provides details on each disaster, such as the date and location, the number of evacuations, injuries and fatalities, and the estimated costs.
